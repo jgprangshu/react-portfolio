@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
+import PText from './PText';
 
 const FormStyle = styled.form`
   width: 100%;
@@ -82,7 +83,8 @@ export default function ContactForm() {
             />
           </label>
         </div>
-        <button type="submit">Send</button>
+        <PText>** Due to unforeseen circumstances the contact form has been disabled, kindly reach out via mail/phone mentioned**</PText><br/>
+        <button type="submit" disabled>Send</button>
       </FormStyle>
     </>
   );
