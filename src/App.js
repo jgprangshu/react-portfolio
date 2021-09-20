@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import NavMenu from './components/NavMenu';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
@@ -7,7 +6,6 @@ import About from './pages/About';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
-import ScrollToTop from './components/ScrollToTop';
 import SmoothScrollBar from './components/SmoothScrollBar';
 
 function App() {

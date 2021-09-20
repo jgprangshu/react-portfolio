@@ -87,7 +87,10 @@ export default function About() {
                         </h2>
                         <div className="about_info">
                             <PText>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                              A passionate self driven developer striving to bring the best out of myself and showcase it in form of apllications helping the mankind. I am obligated to build web applications both in terms of 
+                              front-end interfaces as well as API development. In love with the javacript ecosystem and have developed multiple products in my career.<br/><br/>
+
+                              Currently working as developer in an leading tech MNC and i love writing medium.com blogs and playing around with new technologies in the market.
                             </PText>
                         </div>
                         <Button btnText="Download CV" btnLink="#"/>
