@@ -22,7 +22,7 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: 'Covin19 Stats Tracker',
+    name: 'Covid19 Stats Tracker',
     desc:
       'Using this app you can get the current covid19 stats build with Node.js & React.js',
     img: Covid19TrackerImg,
