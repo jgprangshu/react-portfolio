@@ -3,7 +3,7 @@ import ProjectImg from '../images/projectImg.png';
 import PizzaStoreImg from '../images/pizzaStore1.JPG';
 import DoctorDealImg from '../images/doctorDeal.JPG';
 import Covid19TrackerImg from '../images/covidApp.PNG';
-import PJGImg from '../images/portfolio.PNG';
+import PJGImg from '../images/portfolio.jpg';
 
 const projects = [
   {

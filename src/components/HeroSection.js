@@ -160,7 +160,7 @@ export default function HeroSection() {
             <img src={HeroImg} alt="" />
           </div>
           <div className="hero__info">
-            <PText>
+            <PText headText={true}>
               A passionate MERN stack developer and a web designer with an illustrated
               history of working in the IT industry...&#10084; to design and deliver best web experiences for the
               clients !!

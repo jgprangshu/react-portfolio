@@ -129,7 +129,7 @@ export default function Footer() {
             </div>
             <div className="copyright">
                 <div className="container">
-                  <PText>© 2020-21 :  Designed By Prangshu Gogoi </PText>
+                  <PText>© 2020-21 :  Designed By <span style={{fontFamily:"Sacramento", color:"aquamarine",fontSize:"24px"}}>Prangshu Gogoi </span></PText>
                 </div>
             </div>
         </FooterStyle>
